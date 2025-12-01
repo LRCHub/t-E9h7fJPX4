@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Sanitizer",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-01T09:47:02.713403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sanitizer",
+      "artist": "Urban Heat",
+      "has_synced": true,
+      "path": "select/01_Sanitizer_Urban_Heat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sanitizer",
+      "artist": "Urban Heat",
+      "has_synced": false,
+      "path": "select/02_Sanitizer_Urban_Heat.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Urban Heat - Sanitizer",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/03_Urban_Heat_-_Sanitizer_Various.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hand Sanitizer",
+      "artist": "Beth Crowley",
+      "has_synced": true,
+      "path": "select/04_Hand_Sanitizer_Beth_Crowley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sanitizer",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Sanitizer_Official髭男dism.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sanitizer",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_02_Sanitizer_Official髭男dism.txt"
+    }
+  ]
+}
